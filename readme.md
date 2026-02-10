@@ -12,8 +12,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devisdev365.github.io/devansh-portfolio/)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devansh.khanna24@dsb.edu.in)
 
-<img src="https://komarev.com/ghpvc/?username=devisdev365&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-
 </div>
 
 ---
@@ -112,29 +110,6 @@ Cloud Architecture    ██████████████░░░░░�
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=devisdev365&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devisdev365&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
-
-</div>
-
-<div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devisdev365&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devisdev365&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
-
-</div>
-
----
-
 ## 💼 Real-World Impact
 
 <table>
@@ -188,6 +163,8 @@ Focus: Finance, Ops, Marketing
 
 <div align="center">
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-success?style=for-the-badge&logo=netlify)](https://neuraq.netlify.app/)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
@@ -219,6 +196,8 @@ Enterprise-ready tool that brings transparency and structure to strategic decisi
 <br>
 
 <div align="center">
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-success?style=for-the-badge&logo=netlify)](https://resume-ai-dev.netlify.app/)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
@@ -295,6 +274,8 @@ Success Rate: 73%
 <br>
 
 <div align="center">
+
+[![Open in Colab](https://img.shields.io/badge/Open_in_Colab-View_Notebook-orange?style=for-the-badge&logo=google-colab)](https://colab.research.google.com/drive/1tvOLnaMfJI8w-UVfwO6NWKvkH9vgj98B?usp=sharing)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram_API-E4405F?style=flat-square&logo=instagram&logoColor=white)
@@ -395,7 +376,7 @@ timeline
          : SMAAASH Entertainment
          : ₹59K Revenue Generated
     2026 : MBA Completion (Expected)
-         : Full-Stack Business Solutions
+         : Business Solution Architect
 ```
 
 ---
