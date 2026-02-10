@@ -12,6 +12,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devisdev365.github.io/devansh-portfolio/)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devansh.khanna24@dsb.edu.in)
 
+<img src="https://komarev.com/ghpvc/?username=DevisDev365&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+
 </div>
 
 ---
@@ -107,6 +109,29 @@ Cloud Architecture    ██████████████░░░░░�
 ```
 
 </details>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DevisDev365&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevisDev365&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
+
+</div>
+
+<div align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevisDev365&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevisDev365&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
+
+</div>
 
 ---
 
@@ -481,9 +506,9 @@ timeline
 ### 🐍 Watch my contribution snake eat my commits!
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devisdev365/devisdev365/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devisdev365/devisdev365/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devisdev365/devisdev365/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevisDev365/DevisDev365/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevisDev365/DevisDev365/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevisDev365/DevisDev365/output/github-snake.svg">
 </picture>
 
 </div>
@@ -502,7 +527,7 @@ timeline
 
 ⭐️ **If you find my work helpful, consider starring the repo!**
 
-<img src="https://img.shields.io/github/stars/devisdev365?style=social" alt="GitHub Stars"/>
+<img src="https://img.shields.io/github/stars/DevisDev365?style=social" alt="GitHub Stars"/>
 
 *Built with 💼 by a business guy who codes (or is it a coder who does business? 🤔)*
 
