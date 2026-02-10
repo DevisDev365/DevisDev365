@@ -55,6 +55,8 @@
 
 I'm that rare breed who speaks both **boardroom** and **backend**. Currently pursuing my MBA at Delhi School of Business while building technical solutions that actually solve real business problems.
 
+**Not a developer, but a business solution architect** who codes when it solves a problem. I bridge the gap between "what the business needs" and "what tech can deliver."
+
 **My Superpower?** Translating "We need better insights" into production-ready dashboards, and "This takes too long" into automated workflows that save 87% of manual effort.
 
 ### The Tech-Business Bridge
@@ -64,7 +66,7 @@ I'm that rare breed who speaks both **boardroom** and **backend**. Currently pur
 
 ---
 
-## 🛠️ My Stack (Business Solutions Edition)
+## 🛠️ My Toolkit (Business Solutions Edition)
 
 <details open>
 <summary><b>🔥 Click to expand my tech arsenal</b></summary>
@@ -109,29 +111,6 @@ Cloud Architecture    ██████████████░░░░░�
 ```
 
 </details>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DevisDev365&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevisDev365&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
-
-</div>
-
-<div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevisDev365&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevisDev365&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
-
-</div>
 
 ---
 
@@ -531,7 +510,7 @@ timeline
 
 *Built with 💼 by a business guy who codes (or is it a coder who does business? 🤔)*
 
-**📊 Quick Stats:** MBA Student | Python Enthusiast | Data Nerd | Problem Solver
+**📊 Quick Stats:** MBA Student | Vibe Coder | Business Solution Architect | Problem Solver
 
 </div>
 
