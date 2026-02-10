@@ -241,6 +241,8 @@ False Positive Rate: <8%
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![API](https://img.shields.io/badge/API_Integration-009688?style=flat-square&logo=fastapi&logoColor=white)
 
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_App-success?style=for-the-badge)](https://btc-arbitrage-analyst.bolt.host/)
+
 </div>
 
 **🎯 The Challenge:**  
@@ -255,15 +257,10 @@ Cross-exchange price monitoring framework with real-time data processing
 - Data modeling for opportunity scoring
 - Alert system for actionable arbitrage windows
 
-**🎁 Business Value:**  
-Identified **15+ profitable opportunities** with clear entry/exit signals
+**🎁 Educational Value:**  
+Live demo showcasing arbitrage analysis across Indian crypto exchanges
 
-**📈 Average Opportunity:**
-```
-Price Differential: 0.8% - 2.3%
-Window Duration: 45-180 seconds
-Success Rate: 73%
-```
+**🔗 [Try the Live Demo →](https://btc-arbitrage-analyst.bolt.host/)**
 
 ---
 
