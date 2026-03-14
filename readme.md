@@ -508,7 +508,7 @@ timeline
 
 <img src="https://img.shields.io/github/stars/DevisDev365?style=social" alt="GitHub Stars"/>
 
-*Built with 💼 by a business guy who codes (or is it a coder who does business? 🤔)*
+*Built by a business guy 💼 who codes (or is it a coder who does business? 🤔)*
 
 **📊 Quick Stats:** MBA Student | Vibe Coder | Business Solution Architect | Problem Solver
 
